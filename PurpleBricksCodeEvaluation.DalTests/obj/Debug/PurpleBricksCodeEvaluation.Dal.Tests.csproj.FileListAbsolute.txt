@@ -1,0 +1,9 @@
+c:\users\copey\documents\visual studio 2012\Projects\PurpleBricksCodeEvaluation\PurpleBricksCodeEvaluation.DalTests\obj\Debug\PurpleBricksCodeEvaluation.Dal.Tests.csprojResolveAssemblyReference.cache
+c:\users\copey\documents\visual studio 2012\Projects\PurpleBricksCodeEvaluation\PurpleBricksCodeEvaluation.DalTests\bin\Debug\PurpleBricksCodeEvaluation.DalTests.dll
+c:\users\copey\documents\visual studio 2012\Projects\PurpleBricksCodeEvaluation\PurpleBricksCodeEvaluation.DalTests\bin\Debug\PurpleBricksCodeEvaluation.DalTests.pdb
+c:\users\copey\documents\visual studio 2012\Projects\PurpleBricksCodeEvaluation\PurpleBricksCodeEvaluation.DalTests\bin\Debug\PurpleBricksCodeEvaluation.DAL.dll
+c:\users\copey\documents\visual studio 2012\Projects\PurpleBricksCodeEvaluation\PurpleBricksCodeEvaluation.DalTests\bin\Debug\PurpleBricksCodeEvaluation.DAL.pdb
+c:\users\copey\documents\visual studio 2012\Projects\PurpleBricksCodeEvaluation\PurpleBricksCodeEvaluation.DalTests\obj\Debug\PurpleBricksCodeEvaluation.DalTests.dll
+c:\users\copey\documents\visual studio 2012\Projects\PurpleBricksCodeEvaluation\PurpleBricksCodeEvaluation.DalTests\obj\Debug\PurpleBricksCodeEvaluation.DalTests.pdb
+C:\Users\Copey\Documents\Visual Studio 2012\Projects\PurpleBricksCodeEvaluation\PurpleBricksCodeEvaluation.DalTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Copey\Documents\Visual Studio 2012\Projects\PurpleBricksCodeEvaluation\PurpleBricksCodeEvaluation.DalTests\bin\Debug\System.Web.Mvc.xml

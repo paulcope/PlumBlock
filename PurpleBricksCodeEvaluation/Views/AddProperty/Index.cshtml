@@ -1,0 +1,14 @@
+﻿@model PurpleBricksCodeEvaluation.DAL.Models.House
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Add Property</h2>
+@using (Html.BeginForm("Create", "AddProperty", FormMethod.Post, null))
+    {
+     @Html.EditorFor(a => a)
+    @Html.EditorFor(a => a.Address)
+
+   <input type="submit" value="Submit Property" />
+}
+
